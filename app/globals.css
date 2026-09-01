@@ -63,6 +63,19 @@
                 inset 0 0 15px rgba(223, 255, 0, 0.05);
   }
 
+  .scrollbar-thin::-webkit-scrollbar {
+    width: 4px;
+  }
+
+  .scrollbar-thin::-webkit-scrollbar-track {
+    background: #111111;
+  }
+
+  .scrollbar-thin::-webkit-scrollbar-thumb {
+    background: #333333;
+    border-radius: 2px;
+  }
+
   .noise-bg {
     position: relative;
   }
