@@ -9,7 +9,6 @@ const PLATFORM_LINKS = [
   { label: "Our Work", href: "/#showcase" },
   { label: "Process", href: "/#process" },
   { label: "Why Us", href: "/#why-us" },
-  { label: "Testimonials", href: "/#testimonials" },
 ] as const;
 
 const LEGAL_LINKS = [

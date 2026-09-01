@@ -6,7 +6,6 @@ import { IndustryShowcase } from "@/components/industry-showcase";
 import { WhyUsSection } from "@/components/why-us-section";
 import { GeoSection } from "@/components/geo-section";
 import { ProcessSection } from "@/components/process-section";
-import { TestimonialsSection } from "@/components/testimonials-section";
 import { CtaSection } from "@/components/cta-section";
 import { SiteFooter } from "@/components/site-footer";
 
@@ -55,7 +54,6 @@ export default function Home() {
         <WhyUsSection />
         <GeoSection />
         <ProcessSection />
-        <TestimonialsSection />
         <CtaSection />
       </main>
       <SiteFooter />
